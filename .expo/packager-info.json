@@ -1,0 +1,10 @@
+{
+  "exponentServerPort": null,
+  "packagerPort": 19001,
+  "packagerPid": 24214,
+  "exponentServerNgrokUrl": null,
+  "packagerNgrokUrl": "https://packager.r4-r5g.ekulabuhov.chartjs-expo-test.exp.direct",
+  "ngrokPid": 24234,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://r4-r5g.ekulabuhov.chartjs-expo-test.exp.direct"
+}
